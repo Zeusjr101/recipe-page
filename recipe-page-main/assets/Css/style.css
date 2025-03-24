@@ -1,0 +1,14 @@
+* {
+    font-family: "Inter", serif, sans-serif;
+
+}
+
+body{
+    background: rgb(79, 170, 212);
+}
+
+ p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+ }  
